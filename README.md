@@ -9,4 +9,4 @@ This project is written in CSS -HTML and JAVASCRİPT.
 
 <h2> Screenshot </h2>
 
-![](Movie.gif)
+![](MOVİE.gif)
